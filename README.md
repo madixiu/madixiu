@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madixiu
 - 👀 I’m interested in Django, Python, Vue, Javascript, Linux
 - 🌱 I’m currently learning React-native
-- 💞️ I’m looking to collaborate on Web developing projects
+- 💞️ I’m looking to collaborate on Web Development ,Mobile App & Desktop App projects
 - 📫 How to reach me mahdi.moradi72@gmail.com
 
 <!---
